@@ -1,0 +1,34 @@
+{
+    "labs": [
+      {
+        "id": "ckad-001",
+        "assetPath": "assets/exams/ckad/001",
+        "name": "CKAD Comprehensive Lab - 1",
+        "category": "CKAD",
+        "description": "Hands-on exercises covering core Kubernetes concepts, pod configuration, deployments, and services with practical tasks for application deployment in a cluster.",
+        "warmUpTimeInSeconds": 180,
+         "difficulty": "Medium",
+         "examDurationInMinutes": 120
+      },
+      {
+        "id": "ckad-002",
+        "assetPath": "assets/exams/ckad/002",
+        "name": "CKAD Comprehensive Lab - 2",
+        "category": "CKAD",
+        "description": "Series of practical tasks on multi-container pods, pod design patterns, configuration, services, and networking in Kubernetes environments.",
+        "warmUpTimeInSeconds": 180,
+        "difficulty": "Hard",
+        "examDurationInMinutes": 120
+      },
+      {
+        "id": "cks-001",
+        "assetPath": "assets/exams/cks/001",
+        "name": "CKS Practice Lab - Kubernetes Security Essentials",
+        "category": "CKS",
+        "description": "Practice essential Kubernetes security concepts including network policies, RBAC, supply chain security, and runtime protection",
+        "warmUpTimeInSeconds": 180,
+        "difficulty": "Medium",
+        "examDurationInMinutes": 120
+      }
+    ]
+  } 
