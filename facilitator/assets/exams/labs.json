@@ -16,7 +16,7 @@
         "name": "CKAD Comprehensive Lab - 2",
         "category": "CKAD",
         "description": "Series of practical tasks on multi-container pods, pod design patterns, configuration, services, and networking in Kubernetes environments.",
-        "warmUpTimeInSeconds": 180,
+        "warmUpTimeInSeconds": 260,
         "difficulty": "Hard",
         "examDurationInMinutes": 120
       },
@@ -27,8 +27,38 @@
         "category": "CKS",
         "description": "Practice essential Kubernetes security concepts including network policies, RBAC, supply chain security, and runtime protection",
         "warmUpTimeInSeconds": 180,
-        "difficulty": "Medium",
+        "difficulty": "Hard",
         "examDurationInMinutes": 120
+      },
+      {
+        "id": "cka-001",
+        "assetPath": "assets/exams/cka/001",
+        "name": "CKA Practice Lab - Core Concepts",
+        "category": "CKA",
+        "description": "Practice essential Kubernetes administrator tasks covering cluster management, networking, storage, and security",
+        "warmUpTimeInSeconds": 160,
+        "difficulty": "Easy",
+        "examDurationInMinutes": 60
+      },
+      {
+        "id": "docker-001",
+        "assetPath": "assets/exams/other/001",
+        "name": "Docker Speed Run - Core Concepts",
+        "category": "Other",
+        "description": "Fast-paced practice lab covering Docker fundamentals including images, containers, volumes, networking, OCI, logging, and security best practices.",
+        "warmUpTimeInSeconds": 120,
+        "difficulty": "Medium",
+        "examDurationInMinutes": 90
+      },
+      {
+        "id": "helm-001",
+        "assetPath": "assets/exams/other/002",
+        "name": "Helm Fundamentals Lab",
+        "category": "Other",
+        "description": "Comprehensive lab covering Helm basics including chart installation, repositories, customization, packaging, debugging, and advanced Helm operations for Kubernetes applications.",
+        "warmUpTimeInSeconds": 120,
+        "difficulty": "Medium",
+        "examDurationInMinutes": 90
       }
     ]
   } 
